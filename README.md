@@ -19,7 +19,7 @@
 
 📫 How to reach me **manitcodes247@gmail.com**
 
-📄 Know about my experiences [https://drive.google.com/file/d/1FIaY5Z0JkEArosBjS1GFjXPETUaD8lzR/view?usp=drive_link](https://drive.google.com/file/d/1FIaY5Z0JkEArosBjS1GFjXPETUaD8lzR/view?usp=drive_link)
+📄 Know about my experiences [https://drive.google.com/file/d/11tfMErNRYnuco9c_nzyelpHFUk8NiyIm/view?usp=drive_link](https://drive.google.com/file/d/11tfMErNRYnuco9c_nzyelpHFUk8NiyIm/view?usp=drive_link)
 
 ⚡ Fun fact **I enjoy building CLIs and backend apps from scratch**
 
@@ -40,4 +40,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/manitcodes247"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="manitcodes247" /></a></p><br><br>
 
-<div class="block sm:flex sm:justify-center sm:items-start"><div class="text-center mx-4 mb-4"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=manitcodes247&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="manitcodes247"></div><div class="text-center mx-4 mb-4"><img src="https://github-readme-stats.vercel.app/api?username=manitcodes247&amp;show_icons=true&amp;locale=en" alt="manitcodes247"></div><div class="text-center mx-4 mb-4"><img src="https://github-readme-streak-stats.herokuapp.com/?user=manitcodes247&amp;" alt="manitcodes247"></div></div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manitcodes247&show_icons=true&locale=en&layout=compact" alt="manitcodes247" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manitcodes247&show_icons=true&locale=en" alt="manitcodes247" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manitcodes247&" alt="manitcodes247" /></p>

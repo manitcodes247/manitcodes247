@@ -19,7 +19,7 @@
 
 📫 How to reach me **manitcodes247@gmail.com**
 
-📄 Know about my experiences [https://drive.google.com/file/d/11tfMErNRYnuco9c_nzyelpHFUk8NiyIm/view?usp=drive_link](https://drive.google.com/file/d/11tfMErNRYnuco9c_nzyelpHFUk8NiyIm/view?usp=drive_link)
+📄 Know about my experiences [https://drive.google.com/file/d/1zN0u0xvq7fQQkBCvHgC10yd1QXWXBOdk/view?usp=drive_link](https://drive.google.com/file/d/11tfMErNRYnuco9c_nzyelpHFUk8NiyIm/view?usp=drive_link)
 
 ⚡ Fun fact **I enjoy building CLIs and backend apps from scratch**
 

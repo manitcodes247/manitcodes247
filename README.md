@@ -1,13 +1,13 @@
 <h1 align="center">Hi there👋, I'm Manit Singh</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate frontend and backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manitcodes247&label=Profile%20views&color=0e75b6&style=flat" alt="manitcodes247" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manitcodes247" alt="manitcodes247" /></a> </p>
 
-🔭 I’m currently working on **Building scalable backend systems with Java & Spring Boot**
+🔭 I’m currently working on **Building scalable backend systems with Laravel & PHP**
 
-🌱 I’m currently learning **Backend Development with Java, Spring Boot, REST APIs, and PostgreSQL through real-world projects.**
+🌱 I’m currently learning **Backend Development with Java, Spring Boot, REST APIs and PostgreSQL through real-world projects.**
 
 👯 I’m looking to collaborate on **Java, Spring Boot, REST APIs and Open Source**
 
@@ -15,13 +15,14 @@
 
 👨‍💻 All of my projects are available at [https://github.com/manitcodes247](https://github.com/manitcodes247)
 
-💬 Ask me about **Java, Spring Boot, REST APIs, PostgreSQL, Git**
+💬 Ask me about **Laravel, CodeIgniter, PHP, REST APIs, Git**
 
 📫 How to reach me **manitcodes247@gmail.com**
 
-📄 Know about my experiences [https://drive.google.com/file/d/1zN0u0xvq7fQQkBCvHgC10yd1QXWXBOdk/view?usp=drive_link](https://drive.google.com/file/d/11tfMErNRYnuco9c_nzyelpHFUk8NiyIm/view?usp=drive_link)
+📄 Know about my experiences [https://drive.google.com/file/d/1utbYy4AQ29KDXtIr-1BWm1giyruaOS_n/view?usp=drive_link]
+(https://drive.google.com/file/d/1utbYy4AQ29KDXtIr-1BWm1giyruaOS_n/view?usp=drive_link)
 
-⚡ Fun fact **I enjoy building CLIs and backend apps from scratch**
+⚡ Fun fact **Fun fact I enjoy building Frontend and Backend apps from scratch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

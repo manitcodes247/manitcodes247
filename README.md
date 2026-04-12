@@ -12,8 +12,8 @@ I focus on creating clean, scalable UI components, optimizing performance, and d
 ## 🔥 Featured Projects
 
 ### 🛒 E-Commerce Frontend Application
-🔗 Live: https://your-ecommerce-live-link.com  
-💻 GitHub: https://github.com/your-username/ecommerce-project  
+🔗 Live: https://shop-react-blush.vercel.app/
+💻 GitHub: https://github.com/manitcodes247/shop-react
 - Built with React.js, featuring product listing, filters, and cart functionality  
 - Integrated REST APIs for dynamic data  
 - Implemented routing and state management for seamless UX  
@@ -21,8 +21,8 @@ I focus on creating clean, scalable UI components, optimizing performance, and d
 ---
 
 ### 💬 Real-Time Chat Application
-🔗 Live: https://your-chat-app-link.com  
-💻 GitHub: https://github.com/your-username/chat-app  
+🔗 Live: https://react-chat-ui-iota.vercel.app/
+💻 GitHub: https://github.com/manitcodes247/react-chat-ui  
 - Developed a real-time chat UI using React  
 - Implemented message rendering and responsive layouts  
 - Focused on smooth user interaction and UI performance  
@@ -30,8 +30,8 @@ I focus on creating clean, scalable UI components, optimizing performance, and d
 ---
 
 ### 🌐 Portfolio Website with AI Chatbot
-🔗 Live: https://your-portfolio-link.com  
-💻 GitHub: https://github.com/your-username/portfolio  
+🔗 Live: https://manit-portfolio.vercel.app/  
+💻 GitHub: https://github.com/manitcodes247/manit-portfolio
 - Built a modern portfolio using React with clean UI/UX  
 - Integrated AI chatbot using OpenAI APIs  
 - Optimized for performance and responsiveness  

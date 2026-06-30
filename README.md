@@ -1,58 +1,68 @@
-<h1 align="center">Hi 👋, I'm Manit Singh</h1>
-<h3 align="center">Frontend Developer | React | UI Engineering</h3>
+<h1 align="center">Hi, I'm Manit Singh</h1>
+<h3 align="center">Web Developer | Mumbai, India</h3>
+
+<p align="center">
+  <a href="mailto:manitcodes247@gmail.com">manitcodes247@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/manit-singh">LinkedIn</a> &nbsp;|&nbsp;
+  +91-8369866139
+</p>
 
 ---
 
-🚀 I’m a Frontend Developer with 2+ years of experience building responsive, high-performance web applications using React.js, JavaScript, HTML, and CSS.
+## About
 
-I focus on creating clean, scalable UI components, optimizing performance, and delivering real-world user experiences through modern frontend practices.
-
----
-
-## 🔥 Featured Projects
-
-### 🛒 E-Commerce Frontend Application
-🔗 Live: https://shop-react-blush.vercel.app/
-💻 GitHub: https://github.com/manitcodes247/shop-react
-- Built with React.js, featuring product listing, filters, and cart functionality  
-- Integrated REST APIs for dynamic data  
-- Implemented routing and state management for seamless UX  
+Web Developer with 2+ years of experience delivering websites, web applications and business portals for clients across diverse industries. Experienced in managing projects from requirements gathering through development, deployment and maintenance. Worked across real estate, healthcare, corporate and service industry clients.
 
 ---
 
-### 💬 Real-Time Chat Application
-🔗 Live: https://react-chat-ui-iota.vercel.app/
-💻 GitHub: https://github.com/manitcodes247/react-chat-ui  
-- Developed a real-time chat UI using React  
-- Implemented message rendering and responsive layouts  
-- Focused on smooth user interaction and UI performance  
+## Work Experience
+
+**Sr. Web Developer**
+House of Cure, Mumbai | Nov 2025 – Apr 2026
+
+- Redesigned existing website from scratch for better UI/UX and scalability
+- Digitalized company platforms using modern tools and AI to streamline internal processes
+- Troubleshot and resolved issues in doctor booking portal, added new features
+- Coordinated with social media and marketing team for feature and creative requirements
+
+**Consultant Web Developer**
+Alchemist Marketing & Talent Solutions, Mumbai | Jan 2023 – Jun 2024
+
+- Single point of contact for web and application development projects
+- Managed team for development and maintenance of software and web projects
+- Responsible for technical delivery, requirement analysis and client coordination
+- Focused on scalability and uptime across all projects
 
 ---
 
-### 🌐 Portfolio Website with AI Chatbot
-🔗 Live: https://manit-portfolio.vercel.app/  
-💻 GitHub: https://github.com/manitcodes247/manit-portfolio
-- Built a modern portfolio using React with clean UI/UX  
-- Integrated AI chatbot using OpenAI APIs  
-- Optimized for performance and responsiveness  
+## Tech Stack
+
+**Languages & Frameworks:** PHP, Laravel, CodeIgniter, HTML5, CSS3, JavaScript, jQuery, AJAX, React.js  
+**Database:** MySQL  
+**Other:** REST APIs, WordPress, Git, JSON, Bootstrap
 
 ---
 
-## 🛠️ Tech Stack
+## Projects
 
-**Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS  
-**Tools & Libraries:** Redux, Context API, Axios, Fetch API  
-**Other Skills:** REST APIs, Responsive Design, Performance Optimization  
-**Additional:** WordPress, Basic Backend (PHP, MySQL)
+| Project | Sector | URL |
+|---|---|---|
+| House of Cure | Healthcare | [houseofcure.com](https://www.houseofcure.com) |
+| BPTP | Real Estate | [bptp.com](https://www.bptp.com) |
+| M3M India | Real Estate | [m3mindia.com](https://www.m3mindia.com) |
+| WL Corp | Corporate | [wlcorp.com](https://www.wlcorp.com) |
+| Roha Realty | Real Estate | [roharealty.com](https://www.roharealty.com) |
+| Pristine Pune | Real Estate | [pristinepune.com](https://www.pristinepune.com) |
+| DN Homes | Real Estate | [dnhomes.com](https://www.dnhomes.com) |
+| DN Kingsland | Real Estate | [dnkingsland.net](https://www.dnkingsland.net) |
+| Samaritan Trade | Supply Chain | [samaritantrade.com](https://www.samaritantrade.com) |
+| Beacon Payroll | Payroll & HR | [beaconpay.in](https://beaconpay.in) |
+| HSE Integro | Corporate | [hseintegro.com](https://www.hseintegro.com) |
+| Livetech India | Education | [livetechindia.com](https://www.livetechindia.com) |
 
 ---
 
-## 📫 Connect With Me
+## Education
 
-- LinkedIn: https://linkedin.com/in/manit-singh  
-- GitHub: https://github.com/manitcodes247  
-- Email: manitcodes247@gmail.com  
-
----
-
-⚡ Currently looking for Frontend Developer / UI Developer opportunities (Mumbai & Remote)
+**MBA – Marketing** | Chetna's H.S. College, Mumbai | 2017 – 2020  
+**BCA** | St. Andrew's College, Mumbai | 2013 – 2016

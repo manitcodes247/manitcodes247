@@ -11,7 +11,7 @@
 
 ## About
 
-Web Developer with 2+ years of experience delivering websites, web applications and business portals for clients across diverse industries. Experienced in managing projects from requirements gathering through development, deployment and maintenance. Worked across real estate, healthcare, corporate and service industry clients.
+Web Developer with 2 years of experience delivering websites, web applications and business portals for clients across diverse industries. Experienced in managing projects from requirements gathering through development, deployment and maintenance. Worked across real estate, healthcare, corporate and service industry clients.
 
 ---
 
